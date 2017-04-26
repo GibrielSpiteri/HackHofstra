@@ -1,0 +1,14 @@
+Main
+
+Player
+
+Board
+- Init(filename) 
+- getFinishLine => [(),()]
+- printBoard
+- getCoordsOf(index) => ()
+- getCharAt(coords) => ''
+- placePlayer(coords, player)
+- makeMove(from, to)
+
+UI
